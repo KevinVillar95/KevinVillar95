@@ -1,10 +1,14 @@
 # 📌 Kevin Antonio Villar Piñón
 
 💼 Lead .NET Developer
+
 📍 Chihuahua, Chihuahua, México
+
 📧 kevinpcvillar@gmail.com  
+
 🌐 https://github.com/KevinPCVillar?tab=repositories 
-🔗 [LinkedIn]([https://www.linkedin.com/in/kevin-villar-30bb0417b/]) | [GitHub]([https://github.com/tuusuario](https://github.com/KevinPCVillar))  
+
+🔗 [Linkedin](www.linkedin.com/in/kevin-villar-30bb0417b) - [Github](https://github.com/KevinPCVillar)
 
 
 ## 📖 Sobre Mí  
