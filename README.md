@@ -27,14 +27,14 @@ Me apasiona la arquitectura de software, la optimización de procesos y la imple
 
 ## 🚀 Experiencia Profesional  
 
-### delpunto innovation (https://www.delpunto.com/es)  
+### [delpunto innovation](https://www.delpunto.com/es)  
 - 📅 08/Ene/18 - 04/Jun/18  
 - 📌 **Cargo:** Residente
 - 📌 **Responsabilidades y logros:**  Me fué asignada la responsabilidad de liderar el desarrollo de un proyecto denominado "Integración con plataforma de localización", cuyo objetivo principal era optimizar y automatizar la gestión de los recursos multilingües de la aplicación SmartLPA.
 Para ello, diseñé y desarrollé una aplicación web basada en ASP.NET que establecía una conexión eficiente con la API de OneSky, una plataforma de localización utilizada para la traducción y administración de archivos de recursos en múltiples idiomas. Esta solución permitía la carga y descarga automatizada de archivos de localización, reduciendo significativamente la intervención manual en el proceso de gestión de traducciones.
   
 
-### delpunto innovation (https://www.delpunto.com/es)  
+### [delpunto innovation](https://www.delpunto.com/es)   
 - 📅 04/Jun/18 - 01/Oct/23  
 - 📌 **Cargo:** Ingeníero de Software
 - 📌 **Responsabilidades y logros:**  Como parte de mi labor dentro del equipo de desarrollo, participé activamente en el mantenimiento y actualización de la aplicación web SmartLPA, un sistema desarrollado en MVC5 con SQL Server como base de datos. Esta aplicación está diseñada para gestionar y controlar auditorías en empresas, con un enfoque especial en el sector de manufactura, proporcionando herramientas avanzadas para la supervisión y análisis de procesos.
@@ -45,7 +45,7 @@ Para ello, diseñé y desarrollé una aplicación web basada en ASP.NET que esta
   - Mantenimiento y actualización de reportes: Me encargué de la administración y mejora de los reportes generados en SmartLPA, los cuales están basados en Telerik Reporting y optimizados mediante el uso de procedimientos almacenados en SQL Server. Estas mejoras permitieron ofrecer informes más dinámicos, precisos y eficientes para los usuarios del sistema.
   - Gestión del sistema de notificaciones: Fuí responsable del mantenimiento y optimización del módulo de notificaciones dentro de SmartLPA. Este sistema tiene la capacidad de enviar notificaciones directas y automáticas a los usuarios diariamente, utilizando Azure Functions para garantizar un envío programado y eficiente.
 
-### delpunto innovation (https://www.delpunto.com/es)  
+### [delpunto innovation](https://www.delpunto.com/es)  
 - 📅 01/Oct/23 - Actualidad  
 - 📌 **Cargo:** Líder Ingeníero de Software
 - 📌 **Responsabilidades y logros:**  Fuí asignado como líder del equipo de API de SmartLPA, asumiendo la responsabilidad de ser el owner de la aplicación backend desarrollada en .NET. Mi rol implicó no solo la supervisión técnica del sistema, sino también la implementación de buenas prácticas de desarrollo, aplicando patrones de código limpio como CQRS (Command Query Responsibility Segregation) y asegurando la calidad del software mediante pruebas unitarias.
